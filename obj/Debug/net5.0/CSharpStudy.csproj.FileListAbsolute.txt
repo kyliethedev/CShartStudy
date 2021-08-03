@@ -1,0 +1,15 @@
+/Users/kylie/Documents/Develop/CSharpStudy/bin/Debug/net5.0/CSharpStudy.deps.json
+/Users/kylie/Documents/Develop/CSharpStudy/bin/Debug/net5.0/CSharpStudy.runtimeconfig.json
+/Users/kylie/Documents/Develop/CSharpStudy/bin/Debug/net5.0/CSharpStudy.runtimeconfig.dev.json
+/Users/kylie/Documents/Develop/CSharpStudy/bin/Debug/net5.0/CSharpStudy.dll
+/Users/kylie/Documents/Develop/CSharpStudy/bin/Debug/net5.0/ref/CSharpStudy.dll
+/Users/kylie/Documents/Develop/CSharpStudy/bin/Debug/net5.0/CSharpStudy.pdb
+/Users/kylie/Documents/Develop/CSharpStudy/obj/Debug/net5.0/CSharpStudy.csproj.AssemblyReference.cache
+/Users/kylie/Documents/Develop/CSharpStudy/obj/Debug/net5.0/CSharpStudy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kylie/Documents/Develop/CSharpStudy/obj/Debug/net5.0/CSharpStudy.AssemblyInfoInputs.cache
+/Users/kylie/Documents/Develop/CSharpStudy/obj/Debug/net5.0/CSharpStudy.AssemblyInfo.cs
+/Users/kylie/Documents/Develop/CSharpStudy/obj/Debug/net5.0/CSharpStudy.csproj.CoreCompileInputs.cache
+/Users/kylie/Documents/Develop/CSharpStudy/obj/Debug/net5.0/CSharpStudy.dll
+/Users/kylie/Documents/Develop/CSharpStudy/obj/Debug/net5.0/ref/CSharpStudy.dll
+/Users/kylie/Documents/Develop/CSharpStudy/obj/Debug/net5.0/CSharpStudy.pdb
+/Users/kylie/Documents/Develop/CSharpStudy/obj/Debug/net5.0/CSharpStudy.genruntimeconfig.cache
